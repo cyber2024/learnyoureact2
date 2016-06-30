@@ -1,0 +1,31 @@
+{
+  "name": "tutorial",
+  "version": "0.0.1",
+  "description": "tutorial for react",
+  "main": "server.js",
+  "scripts": {
+    "test": "nothing",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "react-dom":"latest",
+    "react":"latest",
+    "express-react-views":"~0.9.0",
+    "babel":"~5.8.23",
+      "body-parser": "~1.13.2",
+      "express": "~4.13.1",
+      "morgan": "~1.6.1",
+      "serve-favicon": "~2.3.0"
+    },
+  "repository": {
+    "type": "git",
+    "url": "\u001b[A\u001b[Bhttps://github.com/cyber2024/learnyoureact2.git"
+  },
+  "keywords": [
+    "react",
+    "tutorial",
+    "server"
+  ],
+  "author": "russ elf",
+  "license": "ISC"
+}
